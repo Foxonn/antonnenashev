@@ -1,5 +1,12 @@
 # Education Template
 - layout: top-middle
+  name: Омский государственный технический университет
+  dates: Сентябрь 2016 — Сентябрь 2016
+  qualification: инженер-радиотехник
+  quote: >
+    Прекратил обучение по собственному желанию
+
+- layout: top-middle
   name: Омский авиационный колледж имени Н.Е. Жуковского
   dates: Сентябрь 2010 — Июнь 2014
   qualification: Программирование, Программирование в компьютерных системах
@@ -7,10 +14,3 @@
 #    Short institution or course description (optional)
 #  description: | # this will include new lines to allow paragraphs
 #    Description of qualification
-
-- layout: top-middle
-  name: Омский государственный технический университет
-  dates: Сентябрь 2016 — Сентябрь 2016
-  qualification: инженер-радиотехник
-  quote: >
-    Прекратил обучение по собственному желанию
