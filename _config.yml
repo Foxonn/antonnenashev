@@ -33,7 +33,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-#about_title: About Me (Use this to override about section title)
+about_title: Обо мне
 about_profile_image: images/self.jpg
 about_content: | # this will include new lines to allow paragraphs
   Разрабатывал API сервисы. Проектировал структуру базы данных. Работал в командах от 2-14 человек.
