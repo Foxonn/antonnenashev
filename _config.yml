@@ -42,8 +42,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Мой стек:
 
-  <mark>Python</mark>, <mark>GIT</mark>, <mark>PostgreSQL</mark>, <mark>Docker</mark>, <mark>Redis</mark>,
-  <mark>RabbitMQ</mark>, <mark>AsyncIO</mark>, <mark>FastAPI</mark>, <mark>Pydantic</mark>, <mark>Pytest</mark>,
+  <mark>Python</mark> <mark>GIT</mark> <mark>PostgreSQL</mark> <mark>Docker</mark> <mark>Redis</mark>
+  <mark>RabbitMQ</mark> <mark>AsyncIO</mark> <mark>FastAPI</mark> <mark>Pydantic</mark> <mark>Pytest</mark>
   <mark>Unix</mark>
 
 # Projects Section
