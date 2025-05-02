@@ -1,9 +1,22 @@
 # Experience template
 - layout: left
+  company: Тензор
+  job_title: ООО «Компания «Тензор»
+  link: https://tensor.ru/
+  dates: Сентябрь 2023 — Октябрь 2024
+  qualification: Инженер-программист
+  quote: >
+    Разработка программного обеспечения
+  description: | # this will include new lines to allow paragraphs
+    Участие в обсуждении архитектурных решений. Разработка API методов. 
+    Мониторить нагрузку на сервисы, профилирование и отладка. 
+    Общение со смежными командами, формирование задач.
+
+- layout: left
   company: Iqtek
   job_title: ООО Информационные технологии бизнеса
   link: https://iqtek.ru/
-  dates: Март 2021 — Октябрь 2024
+  dates: Март 2021 — Август 2023
   qualification: Инженер-программист
   quote: >
     Разрабатывает программное обеспечение для автоматизации и оптимизации работы call-центров
