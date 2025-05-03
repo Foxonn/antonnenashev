@@ -1,0 +1,21 @@
+# Project template
+- layout: top-middle
+  name: clickfrod
+  quote: >
+    Стек проекта: <mark>Python</mark> <mark>Git</mark> <mark>Rabbitmq</mark> <mark>Docker</mark> 
+    <mark>PostgreSQL</mark> <mark>FastAPI</mark> <mark>Selenium</mark> <mark>Sqlalchemy</mark>
+    <mark>Humancursor</mark> <mark>loguru</mark> <mark>aiopika</mark> <mark>pyautogui</mark>
+  description: | # this will include new lines to allow paragraphs
+    Задача проекта реализовать клик по рекламным объявлениям в поисковой выдаче конкретного поисковика тем самым
+    расходуя бюджет на рекламу.
+    
+    Требования проекта были следующими:
+    - Сделать панель управления администратора для создания задачь по склику
+    - Пользователь вводит: 
+        - Набор фраз по которым будет осуществлятся поиск
+        - Название сайта по которому будет осуществлятся клик с признаками рекламы
+    - Возможность работы с прокси
+    - Обход антифрод защиты
+    - Прохождение капчи
+    - Просмотр статуса выполнения задачь в админке
+    - Работа во многопоточном режиме
