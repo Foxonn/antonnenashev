@@ -2,10 +2,12 @@
 - layout: top-middle
   name: clickfrod
   quote: >
+    фриланс проект
+  description: | # this will include new lines to allow paragraphs
     Стек проекта: <mark>Python</mark> <mark>Git</mark> <mark>Rabbitmq</mark> <mark>Docker</mark> 
     <mark>PostgreSQL</mark> <mark>FastAPI</mark> <mark>Selenium</mark> <mark>Sqlalchemy</mark>
     <mark>Humancursor</mark> <mark>loguru</mark> <mark>aiopika</mark> <mark>pyautogui</mark>
-  description: | # this will include new lines to allow paragraphs
+    
     Задача проекта реализовать клик по рекламным объявлениям в поисковой выдаче конкретного поисковика тем самым
     расходуя бюджет на рекламу.
     
